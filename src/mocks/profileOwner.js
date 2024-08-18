@@ -10,19 +10,19 @@ const profileOwner = {
     },
     {
       title: 'Frontend Mentor',
-      url: '/Frontend Mentor',
+      url: '/frontend-mentor',
     },
     {
       title: 'LinkedIn',
-      url: '/LinkedIn',
+      url: '/linkedin',
     },
     {
       title: 'Twitter',
-      url: '/Twitter',
+      url: '/twitter',
     },
     {
       title: 'Instagram',
-      url: '/Instagram',
+      url: '/instagram',
     },
   ],
 };
