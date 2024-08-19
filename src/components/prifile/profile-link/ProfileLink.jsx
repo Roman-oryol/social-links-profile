@@ -1,4 +1,5 @@
 import styled, { css } from 'styled-components';
+import cursor from '../../../assets/images/handcursor.png';
 
 const ProfileLink = styled.a`
   display: block;
@@ -19,6 +20,7 @@ const ProfileLink = styled.a`
       background-color: ${theme.color.neonGreen};
       color: ${theme.color.grey};
     `}
+    cursor: url(${cursor}) 9 -10, pointer;
   }
 `;
 
